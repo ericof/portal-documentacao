@@ -1,0 +1,81 @@
+{
+  "@id": "/projetos",
+  "@type": "Document",
+  "UID": "5e0897bdb5d049e4acc5f5f79b35b863",
+  "allow_discussion": null,
+  "blocks": {
+    "106f7d8f-0b90-4eed-a302-3d01926200fb": {
+      "@type": "slate"
+    },
+    "6f985887-852d-4da9-bbaa-1311bb60c4d5": {
+      "@type": "description"
+    },
+    "c80bd402-5f12-4edd-a2b6-c7c14c55064f": {
+      "@type": "title"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "c80bd402-5f12-4edd-a2b6-c7c14c55064f",
+      "6f985887-852d-4da9-bbaa-1311bb60c4d5",
+      "106f7d8f-0b90-4eed-a302-3d01926200fb"
+    ]
+  },
+  "contributors": [],
+  "created": "2024-12-11T19:20:09+00:00",
+  "creators": [
+    "b8b97d5f-26aa-4289-beaf-ab8a4696e887"
+  ],
+  "description": "Informa\u00e7\u00f5es sobre os nossos projetos",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "exportimport.versions": {},
+  "id": "projetos",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2024-12-11T19:20:09+00:00",
+  "parent": {
+    "@id": "/",
+    "@type": "Plone Site",
+    "UID": "plone_site_root",
+    "description": "Exemplo de um portal de documenta\u00e7\u00e3o utilizando Plone",
+    "title": "Portal de Documenta\u00e7\u00e3o",
+    "type_title": "Plone Site"
+  },
+  "preview_caption": null,
+  "preview_image": {
+    "blob_path": "5e0897bdb5d049e4acc5f5f79b35b863/preview_image/image-1600-59d6aabeed9840deb3eee1d59a151783.jpeg",
+    "content-type": "image/jpeg",
+    "filename": "image-1600-59d6aabeed9840deb3eee1d59a151783.jpeg",
+    "height": 1066,
+    "size": 138845,
+    "width": 1600
+  },
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Projetos",
+  "type_title": "Page",
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "b8b97d5f-26aa-4289-beaf-ab8a4696e887",
+        "comments": "",
+        "review_state": "private",
+        "time": "2024-12-11T19:20:09+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

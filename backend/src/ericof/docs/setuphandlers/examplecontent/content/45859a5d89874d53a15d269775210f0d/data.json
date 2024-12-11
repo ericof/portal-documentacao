@@ -1,0 +1,88 @@
+{
+  "@id": "/base-de-conhecimento",
+  "@type": "Document",
+  "UID": "45859a5d89874d53a15d269775210f0d",
+  "allow_discussion": null,
+  "blocks": {
+    "006ec14c-fa21-4cf4-847b-f197221f0e4c": {
+      "@type": "slate"
+    },
+    "8d053fec-198a-474e-a1b8-70a69ea632be": {
+      "@type": "listing",
+      "headlineTag": "h2",
+      "styles": {},
+      "variation": "grid"
+    },
+    "a60ed8f9-f269-4b60-b5e1-512002ebed07": {
+      "@type": "title"
+    },
+    "d99a2212-5493-454c-87c9-3ced32bbce6e": {
+      "@type": "description"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "a60ed8f9-f269-4b60-b5e1-512002ebed07",
+      "d99a2212-5493-454c-87c9-3ced32bbce6e",
+      "8d053fec-198a-474e-a1b8-70a69ea632be",
+      "006ec14c-fa21-4cf4-847b-f197221f0e4c"
+    ]
+  },
+  "contributors": [],
+  "created": "2024-12-11T19:17:03+00:00",
+  "creators": [
+    "b8b97d5f-26aa-4289-beaf-ab8a4696e887"
+  ],
+  "description": "Tudo sobre nossos processos",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "exportimport.versions": {},
+  "id": "base-de-conhecimento",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2024-12-11T19:19:07+00:00",
+  "parent": {
+    "@id": "/",
+    "@type": "Plone Site",
+    "UID": "plone_site_root",
+    "description": "Exemplo de um portal de documenta\u00e7\u00e3o utilizando Plone",
+    "title": "Portal de Documenta\u00e7\u00e3o",
+    "type_title": "Plone Site"
+  },
+  "preview_caption": null,
+  "preview_image": {
+    "blob_path": "45859a5d89874d53a15d269775210f0d/preview_image/kb.jpeg",
+    "content-type": "image/jpeg",
+    "filename": "kb.jpeg",
+    "height": 2133,
+    "size": 1016582,
+    "width": 1600
+  },
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Base de Conhecimento",
+  "type_title": "Page",
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "b8b97d5f-26aa-4289-beaf-ab8a4696e887",
+        "comments": "",
+        "review_state": "private",
+        "time": "2024-12-11T19:17:03+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

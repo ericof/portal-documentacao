@@ -1,0 +1,161 @@
+{
+  "@id": "/base-de-conhecimento/snippets",
+  "@type": "Document",
+  "UID": "d133e77166074799b5549b030c74fffa",
+  "allow_discussion": null,
+  "blocks": {
+    "6e58e347-2235-47f3-a33a-3dd71285d0aa": {
+      "@type": "slate",
+      "plaintext": "",
+      "styles": {},
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "74b4f19e-7c9e-4bd7-8ec0-e029c5968511": {
+      "@type": "description"
+    },
+    "a80d31e1-1205-4e25-88fb-52b4b7996e00": {
+      "@type": "title"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "a80d31e1-1205-4e25-88fb-52b4b7996e00",
+      "74b4f19e-7c9e-4bd7-8ec0-e029c5968511",
+      "6e58e347-2235-47f3-a33a-3dd71285d0aa"
+    ]
+  },
+  "contributors": [],
+  "created": "2024-12-11T19:18:18+00:00",
+  "creators": [
+    "b8b97d5f-26aa-4289-beaf-ab8a4696e887"
+  ],
+  "description": "Exemplos de c\u00f3digos",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "exportimport.versions": {},
+  "id": "snippets",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2024-12-11T19:18:51+00:00",
+  "parent": {
+    "@id": "/base-de-conhecimento",
+    "@type": "Document",
+    "Subject": [],
+    "UID": "45859a5d89874d53a15d269775210f0d",
+    "description": "Tudo sobre nossos processos",
+    "effective": "1969-12-31T03:00:00+00:00",
+    "image_field": null,
+    "image_scales": {
+      "preview_image": [
+        {
+          "content-type": "image/jpeg",
+          "download": "@@images/preview_image-1600-27c19a04d4e941cb50abebca56a74ff1.jpeg",
+          "filename": "kb.jpeg",
+          "height": 2133,
+          "scales": {
+            "great": {
+              "download": "@@images/preview_image-1200-3695bcd1dba32447c6ed59b721cea19a.jpeg",
+              "height": 1599,
+              "width": 1200
+            },
+            "huge": {
+              "download": "@@images/preview_image-1600-886186466f92deb336fe917d86c7e462.jpeg",
+              "height": 2133,
+              "width": 1600
+            },
+            "icon": {
+              "download": "@@images/preview_image-32-024b98534d8e41497bace8fde9bd25e0.jpeg",
+              "height": 32,
+              "width": 24
+            },
+            "large": {
+              "download": "@@images/preview_image-800-7e8b4e1dfeeec744e535c88e09d0eddd.jpeg",
+              "height": 1066,
+              "width": 800
+            },
+            "larger": {
+              "download": "@@images/preview_image-1000-2ba6d3a6f2f0fbf6bd0e8d78f8c736d5.jpeg",
+              "height": 1333,
+              "width": 1000
+            },
+            "mini": {
+              "download": "@@images/preview_image-200-2f8a68a4c9463e5c698245937c220a6c.jpeg",
+              "height": 266,
+              "width": 200
+            },
+            "preview": {
+              "download": "@@images/preview_image-400-dd8d7ec5b2b2439534182e93d4fd03cb.jpeg",
+              "height": 533,
+              "width": 400
+            },
+            "teaser": {
+              "download": "@@images/preview_image-600-3f427c573c212b59e87773d83668586c.jpeg",
+              "height": 799,
+              "width": 600
+            },
+            "thumb": {
+              "download": "@@images/preview_image-128-a55f1246cd4496d2dbe3a258631f2a4d.jpeg",
+              "height": 128,
+              "width": 96
+            },
+            "tile": {
+              "download": "@@images/preview_image-64-9fc1f401e621364cbffe614ffcebc6b3.jpeg",
+              "height": 64,
+              "width": 48
+            }
+          },
+          "size": 1016582,
+          "width": 1600
+        }
+      ]
+    },
+    "review_state": "private",
+    "title": "Base de Conhecimento",
+    "type_title": "Page"
+  },
+  "preview_caption": null,
+  "preview_image": {
+    "blob_path": "d133e77166074799b5549b030c74fffa/preview_image/snippets.jpeg",
+    "content-type": "image/jpeg",
+    "filename": "snippets.jpeg",
+    "height": 800,
+    "size": 212156,
+    "width": 1200
+  },
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Snippets",
+  "type_title": "Page",
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "b8b97d5f-26aa-4289-beaf-ab8a4696e887",
+        "comments": "",
+        "review_state": "private",
+        "time": "2024-12-11T19:18:18+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

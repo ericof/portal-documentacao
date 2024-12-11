@@ -1,0 +1,546 @@
+{
+  "@id": "/devops",
+  "@type": "Document",
+  "UID": "e28365bb521b46819adb7cad1f8b3226",
+  "allow_discussion": null,
+  "blocks": {
+    "36cf53cb-7c44-45d4-afb7-41bbf6bd8a1d": {
+      "@type": "title"
+    },
+    "58f3f872-701b-4758-9f11-c707f101bb11": {
+      "@type": "slateTable",
+      "styles": {},
+      "table": {
+        "basic": false,
+        "celled": true,
+        "compact": false,
+        "fixed": true,
+        "hideHeaders": false,
+        "inverted": false,
+        "rows": [
+          {
+            "cells": [
+              {
+                "key": "6l3fo",
+                "type": "header",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Categoria"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "b09l0",
+                "type": "header",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Provedor / Ferramenta"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "8ki1u"
+          },
+          {
+            "cells": [
+              {
+                "key": "c8bam",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Provisionamento e gest\u00e3o de servidores"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "eb3de",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Ansible"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "37ssb"
+          },
+          {
+            "cells": [
+              {
+                "key": "6kjh9",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "E-mails transacionais"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "2fsr2",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Mailgun"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "1eq47"
+          },
+          {
+            "cells": [
+              {
+                "key": "ateea",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Reposit\u00f3rio de c\u00f3digo (P\u00fablico)"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "b83h3",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "GitHub"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "a4vl1"
+          },
+          {
+            "cells": [
+              {
+                "key": "2qhu0",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Reposit\u00f3rio de c\u00f3digo (Projetos)"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "1of65",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "GitLab"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "9ao9h"
+          },
+          {
+            "cells": [
+              {
+                "key": "ccaoc",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Registro de dom\u00ednio"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "fia69",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Cloudflare"
+                      }
+                    ],
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Registro.br"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "9b90l"
+          },
+          {
+            "cells": [
+              {
+                "key": "f9np5",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Gest\u00e3o de senhas"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "5r7ea",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "1Password"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "a0j7v"
+          }
+        ],
+        "striped": false
+      }
+    },
+    "62e9ec99-7b5d-4438-85c7-1c189e15f6d2": {
+      "@type": "slate",
+      "plaintext": "T\u00f3picos",
+      "styles": {},
+      "value": [
+        {
+          "children": [
+            {
+              "text": "T\u00f3picos"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "70804d4e-9003-4980-b1ec-991bda87acda": {
+      "@type": "slate",
+      "plaintext": "Processo",
+      "styles": {},
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Processo"
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "7f9c8b0a-786c-443f-bbbb-1032267c4dd7": {
+      "@type": "slate",
+      "plaintext": "Nossa empresa utiliza as seguintes ferramentas, servi\u00e7os e provedores",
+      "styles": {},
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Nossa empresa utiliza as seguintes ferramentas, servi\u00e7os e provedores"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "bb368234-1a26-4119-886b-b340c82b035c": {
+      "@type": "slate",
+      "plaintext": "Ferramentas",
+      "styles": {},
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Ferramentas"
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "c3fd08f9-2e5d-4ceb-b253-bf85e1cb47c3": {
+      "@type": "slate"
+    },
+    "c53b9446-67a6-40e4-ab75-0203f7a62700": {
+      "@type": "slate",
+      "plaintext": "Vis\u00e3o Geral",
+      "styles": {},
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Vis\u00e3o Geral"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "cb175a10-ae2f-41f9-881f-64e6930010fc": {
+      "@type": "gridBlock",
+      "blocks": {
+        "502299ad-340e-4959-9fef-d5854bb935a4": {
+          "@type": "teaser",
+          "description": "Informa\u00e7\u00f5es sobre o cluster de produ\u00e7\u00e3o",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../resolveuid/9c69034c79c64a0ba783f3affcf19c3b",
+              "@type": "Document",
+              "Description": "Informa\u00e7\u00f5es sobre o cluster de produ\u00e7\u00e3o",
+              "Subject": [],
+              "Title": "Cluster",
+              "description": "Informa\u00e7\u00f5es sobre o cluster de produ\u00e7\u00e3o",
+              "effective": "1969-12-31T03:00:00+00:00",
+              "getRemoteUrl": null,
+              "hasPreviewImage": true,
+              "head_title": null,
+              "image_field": "preview_image",
+              "review_state": "private",
+              "title": "Cluster",
+              "type_title": "P\u00e1gina"
+            }
+          ],
+          "overwrite": false,
+          "styles": {
+            "align": "left"
+          },
+          "title": "Cluster"
+        },
+        "62c8ea66-e6a1-4822-b359-9ebfe96aa6e2": {
+          "@type": "teaser",
+          "description": "Playbooks Ansible",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../resolveuid/edc8907873fc4441a21eb3e63b43273d",
+              "@type": "Document",
+              "Description": "Playbooks Ansible",
+              "Subject": [],
+              "Title": "Ansible",
+              "description": "Playbooks Ansible",
+              "effective": "1969-12-31T03:00:00+00:00",
+              "getRemoteUrl": null,
+              "hasPreviewImage": true,
+              "head_title": null,
+              "image_field": "preview_image",
+              "review_state": "private",
+              "title": "Ansible",
+              "type_title": "P\u00e1gina"
+            }
+          ],
+          "overwrite": false,
+          "styles": {
+            "align": "left"
+          },
+          "title": "Ansible"
+        },
+        "f3ed3a41-727a-4b1c-b3d8-403b24533d70": {
+          "@type": "teaser",
+          "description": "Informa\u00e7\u00f5es sobre caching com Varnish",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../resolveuid/2677301a056747de866f4488e7e4c047",
+              "@type": "Document",
+              "Description": "Informa\u00e7\u00f5es sobre caching com Varnish",
+              "Title": "Caching",
+              "getRemoteUrl": null,
+              "hasPreviewImage": true,
+              "head_title": null,
+              "image_field": "preview_image",
+              "title": "Caching"
+            }
+          ],
+          "overwrite": false,
+          "styles": {
+            "align": "left"
+          },
+          "title": "Caching"
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "62c8ea66-e6a1-4822-b359-9ebfe96aa6e2",
+          "502299ad-340e-4959-9fef-d5854bb935a4",
+          "f3ed3a41-727a-4b1c-b3d8-403b24533d70"
+        ]
+      },
+      "styles": {}
+    },
+    "e46f74d7-0dcf-441a-b11b-cb874e294082": {
+      "@type": "slate",
+      "plaintext": "Sempre abra um ticket no projeto DevOps do GitLab Crie um Pull Request no reposit\u00f3rio dos playbooks Aplique as altera\u00e7\u00f5es em um servidor antes de rodar em todo o ambiente",
+      "styles": {},
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Sempre abra um ticket no projeto DevOps do GitLab"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Crie um Pull Request no reposit\u00f3rio dos playbooks"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Aplique as altera\u00e7\u00f5es em um servidor antes de rodar em todo o ambiente"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "f474d685-48e9-408c-9b56-689a4e0a7977": {
+      "@type": "description"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "36cf53cb-7c44-45d4-afb7-41bbf6bd8a1d",
+      "f474d685-48e9-408c-9b56-689a4e0a7977",
+      "c53b9446-67a6-40e4-ab75-0203f7a62700",
+      "70804d4e-9003-4980-b1ec-991bda87acda",
+      "e46f74d7-0dcf-441a-b11b-cb874e294082",
+      "bb368234-1a26-4119-886b-b340c82b035c",
+      "7f9c8b0a-786c-443f-bbbb-1032267c4dd7",
+      "58f3f872-701b-4758-9f11-c707f101bb11",
+      "62e9ec99-7b5d-4438-85c7-1c189e15f6d2",
+      "cb175a10-ae2f-41f9-881f-64e6930010fc",
+      "c3fd08f9-2e5d-4ceb-b253-bf85e1cb47c3"
+    ]
+  },
+  "contributors": [],
+  "created": "2024-12-11T19:05:13+00:00",
+  "creators": [
+    "b8b97d5f-26aa-4289-beaf-ab8a4696e887"
+  ],
+  "description": "A maior parte das atividades de devops s\u00e3o realizadas utilizando playbooks Ansible.",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "exportimport.versions": {},
+  "id": "devops",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2024-12-11T19:15:39+00:00",
+  "parent": {
+    "@id": "/",
+    "@type": "Plone Site",
+    "UID": "plone_site_root",
+    "description": "Exemplo de um portal de documenta\u00e7\u00e3o utilizando Plone",
+    "title": "Portal de Documenta\u00e7\u00e3o",
+    "type_title": "Plone Site"
+  },
+  "preview_caption": null,
+  "preview_image": {
+    "blob_path": "e28365bb521b46819adb7cad1f8b3226/preview_image/devops.jpeg",
+    "content-type": "image/jpeg",
+    "filename": "devops.jpeg",
+    "height": 1000,
+    "size": 103142,
+    "width": 1000
+  },
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "DevOps",
+  "type_title": "Page",
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "b8b97d5f-26aa-4289-beaf-ab8a4696e887",
+        "comments": "",
+        "review_state": "private",
+        "time": "2024-12-11T19:05:13+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

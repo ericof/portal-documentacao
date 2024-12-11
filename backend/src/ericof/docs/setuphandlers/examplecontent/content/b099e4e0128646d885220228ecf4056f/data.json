@@ -1,0 +1,63 @@
+{
+  "@id": "/glossario/headless-cms",
+  "@type": "Term",
+  "UID": "b099e4e0128646d885220228ecf4056f",
+  "allow_discussion": null,
+  "created": "2024-12-11T18:42:51+00:00",
+  "definition": {
+    "content-type": "text/html",
+    "data": "<p><span class=\"\">Sistema de gest\u00e3o de conte\u00fado que n\u00e3o obriga a utiliza\u00e7\u00e3o de uma interface web por padr\u00e3o, mas conta com todas as suas funcionalidades esperadas de um sistema de gest\u00e3o de conte\u00fado.</span></p>",
+    "encoding": "utf8"
+  },
+  "description": "",
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "exportimport.versions": {},
+  "id": "headless-cms",
+  "image": null,
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {},
+  "modified": "2024-12-11T18:44:03+00:00",
+  "parent": {
+    "@id": "/glossario",
+    "@type": "Glossary",
+    "Subject": [],
+    "UID": "1188e2044ff9475a88debec7579388c1",
+    "description": "Gloss\u00e1rios do portal",
+    "effective": "1969-12-31T03:00:00+00:00",
+    "image_field": null,
+    "image_scales": {},
+    "review_state": "published",
+    "title": "Gloss\u00e1rio",
+    "type_title": "Glossary"
+  },
+  "review_state": "published",
+  "title": "Headless CMS",
+  "type_title": "Term",
+  "variants": [
+    "headless"
+  ],
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "b8b97d5f-26aa-4289-beaf-ab8a4696e887",
+        "comments": "",
+        "review_state": "private",
+        "time": "2024-12-11T18:42:51+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "b8b97d5f-26aa-4289-beaf-ab8a4696e887",
+        "comments": "",
+        "review_state": "published",
+        "time": "2024-12-11T18:44:03+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

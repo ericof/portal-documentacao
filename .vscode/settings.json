@@ -1,0 +1,8 @@
+{
+  "eslint.workingDirectories": ["./frontend"],
+  "flake8.cwd": "${workspaceFolder}/backend",
+  "flake8.args": ["--config=pyproject.toml"],
+  "black-formatter.cwd": "${workspaceFolder}/backend",
+  "isort.args": ["--settings-path=${workspaceFolder}/backend/pyproject.toml"],
+  "python.defaultInterpreterPath": "${workspaceFolder}/backend/.venv/bin/python"
+}

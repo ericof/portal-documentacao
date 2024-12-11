@@ -1,0 +1,17 @@
+[
+  {
+    "from_attribute": "isReferencing",
+    "from_uuid": "e28365bb521b46819adb7cad1f8b3226",
+    "to_uuid": "edc8907873fc4441a21eb3e63b43273d"
+  },
+  {
+    "from_attribute": "isReferencing",
+    "from_uuid": "e28365bb521b46819adb7cad1f8b3226",
+    "to_uuid": "9c69034c79c64a0ba783f3affcf19c3b"
+  },
+  {
+    "from_attribute": "isReferencing",
+    "from_uuid": "e28365bb521b46819adb7cad1f8b3226",
+    "to_uuid": "2677301a056747de866f4488e7e4c047"
+  }
+]

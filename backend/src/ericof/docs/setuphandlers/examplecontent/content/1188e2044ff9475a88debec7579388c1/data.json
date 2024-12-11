@@ -1,0 +1,51 @@
+{
+  "@id": "/glossario",
+  "@type": "Glossary",
+  "UID": "1188e2044ff9475a88debec7579388c1",
+  "allow_discussion": null,
+  "created": "2024-12-11T18:41:01+00:00",
+  "description": "Gloss\u00e1rios do portal",
+  "exclude_from_nav": false,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "exportimport.versions": {},
+  "id": "glossario",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {},
+  "modified": "2024-12-11T19:24:45+00:00",
+  "parent": {
+    "@id": "/",
+    "@type": "Plone Site",
+    "UID": "plone_site_root",
+    "description": "Exemplo de um portal de documenta\u00e7\u00e3o utilizando Plone",
+    "title": "Portal de Documenta\u00e7\u00e3o",
+    "type_title": "Plone Site"
+  },
+  "review_state": "published",
+  "text": null,
+  "title": "Gloss\u00e1rio",
+  "type_title": "Glossary",
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "b8b97d5f-26aa-4289-beaf-ab8a4696e887",
+        "comments": "",
+        "review_state": "private",
+        "time": "2024-12-11T18:41:01+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "b8b97d5f-26aa-4289-beaf-ab8a4696e887",
+        "comments": "",
+        "review_state": "published",
+        "time": "2024-12-11T18:41:08+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

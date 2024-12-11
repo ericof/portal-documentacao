@@ -1,0 +1,63 @@
+{
+  "@id": "/glossario/zope",
+  "@type": "Term",
+  "UID": "18ac106689e44b208712c111e0d99de4",
+  "allow_discussion": null,
+  "created": "2024-12-11T18:43:54+00:00",
+  "definition": {
+    "content-type": "text/html",
+    "data": "<p><span class=\"\">Zope \u00e9 um servidor de aplica\u00e7\u00f5es web de c\u00f3digo aberto escrito na linguagem Python. Com mais de 25 anos de hist\u00f3ria, o Zope \u00e9 uma solu\u00e7\u00e3o robusta e que conta com hist\u00f3rico de seguran\u00e7a.</span></p>",
+    "encoding": "utf8"
+  },
+  "description": "",
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "exportimport.versions": {},
+  "id": "zope",
+  "image": null,
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {},
+  "modified": "2024-12-11T18:44:02+00:00",
+  "parent": {
+    "@id": "/glossario",
+    "@type": "Glossary",
+    "Subject": [],
+    "UID": "1188e2044ff9475a88debec7579388c1",
+    "description": "Gloss\u00e1rios do portal",
+    "effective": "1969-12-31T03:00:00+00:00",
+    "image_field": null,
+    "image_scales": {},
+    "review_state": "published",
+    "title": "Gloss\u00e1rio",
+    "type_title": "Glossary"
+  },
+  "review_state": "published",
+  "title": "Zope",
+  "type_title": "Term",
+  "variants": [
+    "zope"
+  ],
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "b8b97d5f-26aa-4289-beaf-ab8a4696e887",
+        "comments": "",
+        "review_state": "private",
+        "time": "2024-12-11T18:43:54+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "b8b97d5f-26aa-4289-beaf-ab8a4696e887",
+        "comments": "",
+        "review_state": "published",
+        "time": "2024-12-11T18:44:02+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

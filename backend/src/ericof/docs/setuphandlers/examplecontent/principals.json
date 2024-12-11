@@ -1,0 +1,124 @@
+{
+  "groups": [
+    {
+      "description": "/Dev",
+      "email": "",
+      "groupid": "9e8d928e-c226-45fd-9b5e-4536206fbb2f",
+      "groups": [],
+      "principals": [
+        "256b08a1-5830-46b3-89fd-9475b0c12b61"
+      ],
+      "roles": [],
+      "title": "Dev"
+    },
+    {
+      "description": "/Gestores",
+      "email": "",
+      "groupid": "d23a60b1-10b7-49e7-887e-4ff82fc7c747",
+      "groups": [],
+      "principals": [
+        "b8b97d5f-26aa-4289-beaf-ab8a4696e887",
+        "b8b97d5f-26aa-4289-beaf-ab8a4696e887"
+      ],
+      "roles": [],
+      "title": "Gestores"
+    },
+    {
+      "description": "/Time",
+      "email": "",
+      "groupid": "0bf071fc-7f75-4f69-88a5-0f9072944ea3",
+      "groups": [],
+      "principals": [
+        "256b08a1-5830-46b3-89fd-9475b0c12b61"
+      ],
+      "roles": [],
+      "title": "Time"
+    },
+    {
+      "description": "/Time",
+      "email": "",
+      "groupid": "0bf071fc-7f75-4f69-88a5-0f9072944ea3",
+      "groups": [],
+      "principals": [
+        "256b08a1-5830-46b3-89fd-9475b0c12b61"
+      ],
+      "roles": [],
+      "title": "Time"
+    },
+    {
+      "description": "/Dev",
+      "email": "",
+      "groupid": "9e8d928e-c226-45fd-9b5e-4536206fbb2f",
+      "groups": [],
+      "principals": [
+        "256b08a1-5830-46b3-89fd-9475b0c12b61"
+      ],
+      "roles": [],
+      "title": "Dev"
+    },
+    {
+      "description": "",
+      "email": "",
+      "groupid": "Administrators",
+      "groups": [],
+      "principals": [],
+      "roles": [
+        "Manager"
+      ],
+      "title": "Administrators"
+    },
+    {
+      "description": "",
+      "email": "",
+      "groupid": "Reviewers",
+      "groups": [],
+      "principals": [],
+      "roles": [
+        "Reviewer"
+      ],
+      "title": "Reviewers"
+    },
+    {
+      "description": "",
+      "email": "",
+      "groupid": "Site Administrators",
+      "groups": [],
+      "principals": [],
+      "roles": [
+        "Site Administrator"
+      ],
+      "title": "Site Administrators"
+    },
+    {
+      "description": "/Gestores",
+      "email": "",
+      "groupid": "d23a60b1-10b7-49e7-887e-4ff82fc7c747",
+      "groups": [],
+      "principals": [
+        "b8b97d5f-26aa-4289-beaf-ab8a4696e887",
+        "b8b97d5f-26aa-4289-beaf-ab8a4696e887"
+      ],
+      "roles": [],
+      "title": "Gestores"
+    }
+  ],
+  "members": [
+    {
+      "description": "",
+      "email": "ericof@gmail.com",
+      "fullname": "\u00c9rico Andrei",
+      "groups": [
+        "d23a60b1-10b7-49e7-887e-4ff82fc7c747"
+      ],
+      "home_page": "",
+      "location": "",
+      "password": "{SSHA}Mlo155l9dSTP0PWHjCGCC8+tIrYqavMWRn0I",
+      "roles": [
+        "Editor",
+        "Member",
+        "Manager"
+      ],
+      "username": "b8b97d5f-26aa-4289-beaf-ab8a4696e887"
+    }
+  ]
+}

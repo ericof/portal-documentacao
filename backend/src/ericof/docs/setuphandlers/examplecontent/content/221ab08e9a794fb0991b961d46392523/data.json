@@ -1,0 +1,63 @@
+{
+  "@id": "/glossario/linuxtips",
+  "@type": "Term",
+  "UID": "221ab08e9a794fb0991b961d46392523",
+  "allow_discussion": null,
+  "created": "2024-12-11T19:24:45+00:00",
+  "definition": {
+    "content-type": "text/html",
+    "data": "<p><span class=\"\">Canal de tecnologia criado em 2014 para compartilhar o conhecimento adquirido ao longo de +20 anos de experi\u00eancia e agora a melhor escola DevOps!</span></p>",
+    "encoding": "utf8"
+  },
+  "description": "",
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "exportimport.versions": {},
+  "id": "linuxtips",
+  "image": null,
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {},
+  "modified": "2024-12-11T19:25:02+00:00",
+  "parent": {
+    "@id": "/glossario",
+    "@type": "Glossary",
+    "Subject": [],
+    "UID": "1188e2044ff9475a88debec7579388c1",
+    "description": "Gloss\u00e1rios do portal",
+    "effective": "1969-12-31T03:00:00+00:00",
+    "image_field": null,
+    "image_scales": {},
+    "review_state": "published",
+    "title": "Gloss\u00e1rio",
+    "type_title": "Glossary"
+  },
+  "review_state": "published",
+  "title": "LinuxTips",
+  "type_title": "Term",
+  "variants": [
+    "linuxtips"
+  ],
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "b8b97d5f-26aa-4289-beaf-ab8a4696e887",
+        "comments": "",
+        "review_state": "private",
+        "time": "2024-12-11T19:24:45+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "b8b97d5f-26aa-4289-beaf-ab8a4696e887",
+        "comments": "",
+        "review_state": "published",
+        "time": "2024-12-11T19:25:02+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

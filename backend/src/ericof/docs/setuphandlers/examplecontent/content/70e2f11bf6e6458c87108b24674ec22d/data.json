@@ -1,0 +1,64 @@
+{
+  "@id": "/glossario/api",
+  "@type": "Term",
+  "UID": "70e2f11bf6e6458c87108b24674ec22d",
+  "allow_discussion": null,
+  "created": "2024-12-11T18:41:59+00:00",
+  "definition": {
+    "content-type": "text/html",
+    "data": "<p><span class=\"\">API \u00e9 a sigla para \"Application Programming Interface\" (Interface de Programa\u00e7\u00e3o de Aplicativos, em portugu\u00eas). \u00c9 um conjunto de regras e protocolos que permite que diferentes softwares se comuniquem entre si.</span></p><p><span class=\"\">O Plone prov\u00ea uma API de alto n\u00edvel chamada plone.api.</span></p>",
+    "encoding": "utf8"
+  },
+  "description": "",
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "exportimport.versions": {},
+  "id": "api",
+  "image": null,
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {},
+  "modified": "2024-12-11T18:44:03+00:00",
+  "parent": {
+    "@id": "/glossario",
+    "@type": "Glossary",
+    "Subject": [],
+    "UID": "1188e2044ff9475a88debec7579388c1",
+    "description": "Gloss\u00e1rios do portal",
+    "effective": "1969-12-31T03:00:00+00:00",
+    "image_field": null,
+    "image_scales": {},
+    "review_state": "published",
+    "title": "Gloss\u00e1rio",
+    "type_title": "Glossary"
+  },
+  "review_state": "published",
+  "title": "API",
+  "type_title": "Term",
+  "variants": [
+    "api",
+    "plone.api"
+  ],
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "b8b97d5f-26aa-4289-beaf-ab8a4696e887",
+        "comments": "",
+        "review_state": "private",
+        "time": "2024-12-11T18:41:59+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "b8b97d5f-26aa-4289-beaf-ab8a4696e887",
+        "comments": "",
+        "review_state": "published",
+        "time": "2024-12-11T18:44:03+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

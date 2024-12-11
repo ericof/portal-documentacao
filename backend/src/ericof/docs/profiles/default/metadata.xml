@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+  <version>1000</version>
+  <dependencies>
+    <dependency>profile-plone.volto:default</dependency>
+    <dependency>profile-pas.plugins.oidc:default</dependency>
+    <dependency>profile-pas.plugins.keycloakgroups:default</dependency>
+    <dependency>profile-collective.glossary:default</dependency>
+  </dependencies>
+</metadata>
