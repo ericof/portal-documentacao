@@ -41,7 +41,7 @@
     "locked": false,
     "stealable": true
   },
-  "modified": "2024-12-11T19:06:06+00:00",
+  "modified": "2024-12-11T19:26:16+00:00",
   "parent": {
     "@id": "/devops",
     "@type": "Document",
@@ -54,47 +54,47 @@
       "preview_image": [
         {
           "content-type": "image/jpeg",
-          "download": "@@images/preview_image-1000-433763c67c1f1fb6156a3a78827557f5.jpeg",
+          "download": "@@images/preview_image-1000-5a3618c52470a4135cddc1023ce9fe65.jpeg",
           "filename": "devops.jpeg",
           "height": 1000,
           "scales": {
             "icon": {
-              "download": "@@images/preview_image-32-7d252db097f5b8f12f0f0a59ced1e4e1.jpeg",
+              "download": "@@images/preview_image-32-7c7a4b867e969abc2c3667676ba46bbe.jpeg",
               "height": 32,
               "width": 32
             },
             "large": {
-              "download": "@@images/preview_image-800-5ff3c0fbb6a2ad68510a593db6cf9e32.jpeg",
+              "download": "@@images/preview_image-800-8a900bcd7733a9318bdf42127578e9c0.jpeg",
               "height": 800,
               "width": 800
             },
             "larger": {
-              "download": "@@images/preview_image-1000-1861145b8464d66254a6bc3d16066a40.jpeg",
+              "download": "@@images/preview_image-1000-8dc03300b77dd44df437a8d8e8c66017.jpeg",
               "height": 1000,
               "width": 1000
             },
             "mini": {
-              "download": "@@images/preview_image-200-76da73987fb1cdd66bd525170ab62081.jpeg",
+              "download": "@@images/preview_image-200-2a868f77ee9fe59e2302cecc5639972f.jpeg",
               "height": 200,
               "width": 200
             },
             "preview": {
-              "download": "@@images/preview_image-400-a6a6648ffc9188eadbd4359973483ac3.jpeg",
+              "download": "@@images/preview_image-400-89443dbde81dbf4f68addda15b0a8850.jpeg",
               "height": 400,
               "width": 400
             },
             "teaser": {
-              "download": "@@images/preview_image-600-96c67ba9b144fc5faaa74bd36a49e0de.jpeg",
+              "download": "@@images/preview_image-600-3d7b60f75d5a7330e3690cbee6eb00d2.jpeg",
               "height": 600,
               "width": 600
             },
             "thumb": {
-              "download": "@@images/preview_image-128-aaa9df74f1f46c1505f22e407f18c4b8.jpeg",
+              "download": "@@images/preview_image-128-08f18e893c9883608c31eb2adf114f8f.jpeg",
               "height": 128,
               "width": 128
             },
             "tile": {
-              "download": "@@images/preview_image-64-2260770388652cbb0e6b1756a0100a52.jpeg",
+              "download": "@@images/preview_image-64-06e8eac585b791070f95bbbeebbab48a.jpeg",
               "height": 64,
               "width": 64
             }

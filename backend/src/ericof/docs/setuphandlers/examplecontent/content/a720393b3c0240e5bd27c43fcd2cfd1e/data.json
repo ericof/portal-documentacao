@@ -58,7 +58,7 @@
     "locked": false,
     "stealable": true
   },
-  "modified": "2024-12-11T18:59:29+00:00",
+  "modified": "2024-12-11T19:27:26+00:00",
   "parent": {
     "@id": "/",
     "@type": "Plone Site",

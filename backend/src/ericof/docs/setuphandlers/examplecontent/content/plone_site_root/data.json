@@ -16,15 +16,27 @@
               "@id": "resolveuid/5e0897bdb5d049e4acc5f5f79b35b863",
               "@type": "Document",
               "Description": "Informa\u00e7\u00f5es sobre os nossos projetos",
+              "Subject": [],
               "Title": "Projetos",
+              "description": "Informa\u00e7\u00f5es sobre os nossos projetos",
+              "effective": "1969-12-31T03:00:00+00:00",
               "getRemoteUrl": null,
               "hasPreviewImage": true,
               "head_title": null,
               "image_field": "preview_image",
-              "title": "Projetos"
+              "review_state": "private",
+              "title": "Projetos",
+              "type_title": "P\u00e1gina"
             }
           ],
-          "overwrite": false,
+          "overwrite": true,
+          "preview_image": [
+            {
+              "@id": "resolveuid/8f5db381e48d427e87904c6f19a2bea8",
+              "image_field": "image",
+              "title": "Projects"
+            }
+          ],
           "styles": {
             "align": "left"
           },
@@ -84,7 +96,14 @@
               "type_title": "P\u00e1gina"
             }
           ],
-          "overwrite": false,
+          "overwrite": true,
+          "preview_image": [
+            {
+              "@id": "resolveuid/7f88d134e2424293baf831fe7b402bac",
+              "image_field": "image",
+              "title": "devops.jpeg"
+            }
+          ],
           "styles": {
             "align": "left"
           },
@@ -112,7 +131,14 @@
               "type_title": "P\u00e1gina"
             }
           ],
-          "overwrite": false,
+          "overwrite": true,
+          "preview_image": [
+            {
+              "@id": "resolveuid/f5b6d4e3530e4d4da5939c160944cd02",
+              "image_field": "image",
+              "title": "kb.jpeg"
+            }
+          ],
           "styles": {
             "align": "left"
           },
@@ -153,8 +179,16 @@
   "items_total": 2,
   "language": "##DEFAULT##",
   "lock": {
-    "locked": false,
-    "stealable": true
+    "created": "2024-12-11T19:57:47+00:00",
+    "creator": "b8b97d5f-26aa-4289-beaf-ab8a4696e887",
+    "creator_name": "\u00c9rico Andrei",
+    "creator_url": "http://nohost/Plone/author/b8b97d5f-26aa-4289-beaf-ab8a4696e887",
+    "locked": true,
+    "name": "plone.locking.stealable",
+    "stealable": true,
+    "time": 1733947067.661427,
+    "timeout": 600,
+    "token": "0.4320148820614059-0.129080978646663-00105A989226:1733947067.661"
   },
   "parent": {},
   "review_state": null,
