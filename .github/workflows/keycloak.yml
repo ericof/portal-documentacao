@@ -3,7 +3,7 @@ name: Keycloak CI
 on:
   push:
     paths:
-      - "keycloak/**"
+      - "devops/keycloak/**"
       - ".github/workflows/keycloak.yml"
   workflow_dispatch:
 
@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       BASE_TAG: ${{ steps.vars.outputs.BASE_TAG }}
-      VOLTO_VERSION: ${{ steps.vars.outputs.VOLTO_VERSION }}
+      KEYCLOAK_VERSION: ${{ steps.vars.outputs.KEYCLOAK_VERSION }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -29,7 +29,7 @@ jobs:
       - name: Test vars
         run: |
           echo 'BASE_TAG=${{ steps.vars.outputs.BASE_TAG }}'
-          echo 'KEYCLOAK_VERSION=${{ steps.vars.outputs.VOLTO_VERSION }}'
+          echo 'KEYCLOAK_VERSION=${{ steps.vars.outputs.KEYCLOAK_VERSION }}'
 
   release:
     runs-on: ubuntu-latest
