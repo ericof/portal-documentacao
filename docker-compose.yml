@@ -61,7 +61,7 @@ services:
       - internal
 
   backend:
-    image: ghcr.io/ericof/portal-documentacao-frontend:latest
+    image: ghcr.io/ericof/portal-documentacao-backend:latest
     platform: linux/amd64
     environment:
       RELSTORAGE_DSN: "dbname='${DB_NAME:-plone}' user='${DB_NAME:-plone}' host='${DB_HOST:-db}' password='${DB_PASSWORD:-ufQnylROgELP}' port='${DB_PORT:-5432}'"
